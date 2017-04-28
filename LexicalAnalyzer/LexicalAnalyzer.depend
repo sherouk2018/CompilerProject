@@ -1,0 +1,682 @@
+# depslib dependency file v1.0
+1491772510 source:/media/safaa/New Volume/safaa/Safaa/Academic/Third-Year-Second-Term/Compiler/Projects/LexialAnalyzer/DFA.cpp
+	"Analyzer.h"
+	<sstream>
+	<regex>
+	<algorithm>
+	<utility>
+	<set>
+
+1491670969 /media/safaa/New Volume/safaa/Safaa/Academic/Third-Year-Second-Term/Compiler/Projects/LexialAnalyzer/Analyzer.h
+	<iostream>
+	<bits/stdc++.h>
+	<stdio.h>
+	<map>
+	<vector>
+	<regex>
+	<map>
+
+1491771715 source:/media/safaa/New Volume/safaa/Safaa/Academic/Third-Year-Second-Term/Compiler/Projects/LexialAnalyzer/main.cpp
+	<iostream>
+	<regex>
+	"Analyzer.h"
+	"Matcher.h"
+
+1491670372 source:/media/safaa/New Volume/safaa/Safaa/Academic/Third-Year-Second-Term/Compiler/Projects/LexialAnalyzer/NFA.cpp
+	"Analyzer.h"
+	<sstream>
+	<regex>
+	<algorithm>
+	<utility>
+	<set>
+
+1491661816 source:/media/safaa/New Volume/safaa/Safaa/Academic/Third-Year-Second-Term/Compiler/Projects/LexialAnalyzer/src/Matcher.cpp
+	"Analyzer.h"
+	"Matcher.h"
+	<iostream>
+	<fstream>
+	<map>
+
+1491656976 /media/safaa/New Volume/safaa/Safaa/Academic/Third-Year-Second-Term/Compiler/Projects/LexialAnalyzer/include/Analyzer.h
+	<iostream>
+	<bits/stdc++.h>
+	<stdio.h>
+	<map>
+	<vector>
+	<regex>
+	<map>
+
+1491657781 /media/safaa/New Volume/safaa/Safaa/Academic/Third-Year-Second-Term/Compiler/Projects/LexialAnalyzer/include/Matcher.h
+	"Analyzer.h"
+	<string>
+	<map>
+
+1491657782 /media/safaa/New Volume/safaa/Safaa/Academic/Third-Year-Second-Term/Compiler/Projects/LexialAnalyzer/Matcher.h
+	"Analyzer.h"
+	<string>
+	<map>
+
+1491778358 source:/media/safaa/New Volume/safaa/Safaa/Academic/Third-Year-Second-Term/Compiler/Projects/LexialAnalyzer/Matcher.cpp
+	"Analyzer.h"
+	"Matcher.h"
+	<iostream>
+	<fstream>
+	<map>
+
+1491845871 source:/media/safaa/New Volume/safaa/Safaa/Academic/Third-Year-Second-Term/Compiler/Projects/LexicalAnalyzer/DFA.cpp
+	"Analyzer.h"
+	<sstream>
+	<regex>
+	<algorithm>
+	<utility>
+	<set>
+
+1491845871 /media/safaa/New Volume/safaa/Safaa/Academic/Third-Year-Second-Term/Compiler/Projects/LexicalAnalyzer/Analyzer.h
+	<iostream>
+	<bits/stdc++.h>
+	<stdio.h>
+	<map>
+	<vector>
+	<regex>
+	<map>
+
+1491845871 source:/media/safaa/New Volume/safaa/Safaa/Academic/Third-Year-Second-Term/Compiler/Projects/LexicalAnalyzer/main.cpp
+	<iostream>
+	<regex>
+	"Analyzer.h"
+	"Matcher.h"
+
+1491657782 /media/safaa/New Volume/safaa/Safaa/Academic/Third-Year-Second-Term/Compiler/Projects/LexicalAnalyzer/Matcher.h
+	"Analyzer.h"
+	<string>
+	<map>
+
+1491846353 source:/media/safaa/New Volume/safaa/Safaa/Academic/Third-Year-Second-Term/Compiler/Projects/LexicalAnalyzer/Matcher.cpp
+	"Analyzer.h"
+	"Matcher.h"
+	<iostream>
+	<fstream>
+	<map>
+
+1491670372 source:/media/safaa/New Volume/safaa/Safaa/Academic/Third-Year-Second-Term/Compiler/Projects/LexicalAnalyzer/NFA.cpp
+	"Analyzer.h"
+	<sstream>
+	<regex>
+	<algorithm>
+	<utility>
+	<set>
+
+1491845872 source:/home/mayar2048/Desktop/Lexical_Analyzer/LexicalAnalyzer/DFA.cpp
+	"Analyzer.h"
+	<sstream>
+	<regex>
+	<algorithm>
+	<utility>
+	<set>
+
+1491845872 /home/mayar2048/Desktop/Lexical_Analyzer/LexicalAnalyzer/Analyzer.h
+	<iostream>
+	<bits/stdc++.h>
+	<stdio.h>
+	<map>
+	<vector>
+	<regex>
+	<map>
+
+1491845872 source:/home/mayar2048/Desktop/Lexical_Analyzer/LexicalAnalyzer/main.cpp
+	<iostream>
+	<regex>
+	"Analyzer.h"
+	"Matcher.h"
+
+1491657782 /home/mayar2048/Desktop/Lexical_Analyzer/LexicalAnalyzer/Matcher.h
+	"Analyzer.h"
+	<string>
+	<map>
+
+1491858784 source:/home/mayar2048/Desktop/Lexical_Analyzer/LexicalAnalyzer/Matcher.cpp
+	"Analyzer.h"
+	"Matcher.h"
+	<iostream>
+	<fstream>
+	<map>
+
+1491670372 source:/home/mayar2048/Desktop/Lexical_Analyzer/LexicalAnalyzer/NFA.cpp
+	"Analyzer.h"
+	<sstream>
+	<regex>
+	<algorithm>
+	<utility>
+	<set>
+
+1491845872 source:/home/mayar2048/Desktop/LexicalAnalyzer/DFA.cpp
+	"Analyzer.h"
+	<sstream>
+	<regex>
+	<algorithm>
+	<utility>
+	<set>
+
+1491845872 /home/mayar2048/Desktop/LexicalAnalyzer/Analyzer.h
+	<iostream>
+	<bits/stdc++.h>
+	<stdio.h>
+	<map>
+	<vector>
+	<regex>
+	<map>
+
+1492277525 source:/home/mayar2048/Desktop/LexicalAnalyzer/main.cpp
+	<iostream>
+	<regex>
+	"Analyzer.h"
+	"Matcher.h"
+	"Parser.h"
+
+1491657782 /home/mayar2048/Desktop/LexicalAnalyzer/Matcher.h
+	"Analyzer.h"
+	<string>
+	<map>
+
+1491859014 source:/home/mayar2048/Desktop/LexicalAnalyzer/Matcher.cpp
+	"Analyzer.h"
+	"Matcher.h"
+	<iostream>
+	<fstream>
+	<map>
+
+1491670372 source:/home/mayar2048/Desktop/LexicalAnalyzer/NFA.cpp
+	"Analyzer.h"
+	<sstream>
+	<regex>
+	<algorithm>
+	<utility>
+	<set>
+
+1492292987 source:/home/mayar2048/Desktop/LexicalAnalyzer/src/Parser.cpp
+	"Parser.h"
+	<string>
+	<map>
+	<algorithm>
+	<sstream>
+	<iostream>
+	<iterator>
+
+1492292660 /home/mayar2048/Desktop/LexicalAnalyzer/include/Parser.h
+	<iostream>
+	<bits/stdc++.h>
+	<stdio.h>
+	<map>
+	<vector>
+	<regex>
+	<map>
+
+1491845872 source:/media/safaa/New Volume/safaa/Safaa/Academic/Third-Year-Second-Term/Compiler/Projects/Parser/LexicalAnalyzer/DFA.cpp
+	"Analyzer.h"
+	<sstream>
+	<regex>
+	<algorithm>
+	<utility>
+	<set>
+
+1491845872 /media/safaa/New Volume/safaa/Safaa/Academic/Third-Year-Second-Term/Compiler/Projects/Parser/LexicalAnalyzer/Analyzer.h
+	<iostream>
+	<bits/stdc++.h>
+	<stdio.h>
+	<map>
+	<vector>
+	<regex>
+	<map>
+
+1492874997 source:/media/safaa/New Volume/safaa/Safaa/Academic/Third-Year-Second-Term/Compiler/Projects/Parser/LexicalAnalyzer/main.cpp
+	<iostream>
+	<regex>
+	"Analyzer.h"
+	"Matcher.h"
+	"Parser.h"
+
+1491657782 /media/safaa/New Volume/safaa/Safaa/Academic/Third-Year-Second-Term/Compiler/Projects/Parser/LexicalAnalyzer/Matcher.h
+	"Analyzer.h"
+	<string>
+	<map>
+
+1492879708 /media/safaa/New Volume/safaa/Safaa/Academic/Third-Year-Second-Term/Compiler/Projects/Parser/LexicalAnalyzer/include/Parser.h
+	<iostream>
+	<bits/stdc++.h>
+	<stdio.h>
+	<map>
+	<vector>
+	<regex>
+	<map>
+
+1492874997 source:/media/safaa/New Volume/safaa/Safaa/Academic/Third-Year-Second-Term/Compiler/Projects/Parser/LexicalAnalyzer/Matcher.cpp
+	"Analyzer.h"
+	"Matcher.h"
+	<iostream>
+	<fstream>
+	<map>
+
+1491670372 source:/media/safaa/New Volume/safaa/Safaa/Academic/Third-Year-Second-Term/Compiler/Projects/Parser/LexicalAnalyzer/NFA.cpp
+	"Analyzer.h"
+	<sstream>
+	<regex>
+	<algorithm>
+	<utility>
+	<set>
+
+1492877836 /media/safaa/New Volume/safaa/Safaa/Academic/Third-Year-Second-Term/Compiler/Projects/Parser/LexicalAnalyzer/include/Matcher.h
+	"Analyzer.h"
+	<string>
+	<map>
+
+1491656976 /media/safaa/New Volume/safaa/Safaa/Academic/Third-Year-Second-Term/Compiler/Projects/Parser/LexicalAnalyzer/include/Analyzer.h
+	<iostream>
+	<bits/stdc++.h>
+	<stdio.h>
+	<map>
+	<vector>
+	<regex>
+	<map>
+
+1492877852 source:/media/safaa/New Volume/safaa/Safaa/Academic/Third-Year-Second-Term/Compiler/Projects/Parser/LexicalAnalyzer/src/Parser.cpp
+	"Parser.h"
+	<string>
+	<map>
+	<algorithm>
+	<sstream>
+	<iostream>
+	<iterator>
+
+1492885405 source:/media/mayar2048/4A845DAE845D9D6F/Users/Eng-Mayar/OneDrive/Documents/Faculty/8th Term/Compiler/Project/Parser/LexicalAnalyzer/DFA.cpp
+	"Analyzer.h"
+	<sstream>
+	<regex>
+	<algorithm>
+	<utility>
+	<set>
+
+1492885352 /media/mayar2048/4A845DAE845D9D6F/Users/Eng-Mayar/OneDrive/Documents/Faculty/8th Term/Compiler/Project/Parser/LexicalAnalyzer/Analyzer.h
+	<iostream>
+	<bits/stdc++.h>
+	<stdio.h>
+	<map>
+	<vector>
+	<regex>
+	<map>
+
+1492883930 source:/media/mayar2048/4A845DAE845D9D6F/Users/Eng-Mayar/OneDrive/Documents/Faculty/8th Term/Compiler/Project/Parser/LexicalAnalyzer/main.cpp
+	<iostream>
+	<regex>
+	"Analyzer.h"
+	"Matcher.h"
+	"Parser.h"
+
+1492885319 /media/mayar2048/4A845DAE845D9D6F/Users/Eng-Mayar/OneDrive/Documents/Faculty/8th Term/Compiler/Project/Parser/LexicalAnalyzer/include/Matcher.h
+	"Analyzer.h"
+	<string>
+	<map>
+
+1492885352 /media/mayar2048/4A845DAE845D9D6F/Users/Eng-Mayar/OneDrive/Documents/Faculty/8th Term/Compiler/Project/Parser/LexicalAnalyzer/include/Analyzer.h
+	<iostream>
+	<bits/stdc++.h>
+	<stdio.h>
+	<map>
+	<vector>
+	<regex>
+	<map>
+
+1492886331 /media/mayar2048/4A845DAE845D9D6F/Users/Eng-Mayar/OneDrive/Documents/Faculty/8th Term/Compiler/Project/Parser/LexicalAnalyzer/include/Parser.h
+	"Analyzer.h"
+	"Matcher.h"
+	<iostream>
+	<bits/stdc++.h>
+	<stdio.h>
+	<map>
+	<vector>
+	<regex>
+	<map>
+
+1492874998 source:/media/mayar2048/4A845DAE845D9D6F/Users/Eng-Mayar/OneDrive/Documents/Faculty/8th Term/Compiler/Project/Parser/LexicalAnalyzer/Matcher.cpp
+	"Analyzer.h"
+	"Matcher.h"
+	<iostream>
+	<fstream>
+	<map>
+
+1492885429 source:/media/mayar2048/4A845DAE845D9D6F/Users/Eng-Mayar/OneDrive/Documents/Faculty/8th Term/Compiler/Project/Parser/LexicalAnalyzer/NFA.cpp
+	"Analyzer.h"
+	<sstream>
+	<regex>
+	<algorithm>
+	<utility>
+	<set>
+
+1492885354 source:/media/mayar2048/4A845DAE845D9D6F/Users/Eng-Mayar/OneDrive/Documents/Faculty/8th Term/Compiler/Project/Parser/LexicalAnalyzer/src/Parser.cpp
+	"Parser.h"
+	<string>
+	<map>
+	<algorithm>
+	<sstream>
+	<iostream>
+	<iterator>
+
+1492885319 /media/mayar2048/4A845DAE845D9D6F/Users/Eng-Mayar/OneDrive/Documents/Faculty/8th Term/Compiler/Project/Parser/LexicalAnalyzer/Matcher.h
+	"Analyzer.h"
+	<string>
+	<map>
+
+1492885523 /media/mayar2048/4A845DAE845D9D6F/Users/Eng-Mayar/OneDrive/Documents/Faculty/8th Term/Compiler/Project/Parser/LexicalAnalyzer/Parser.h
+	"Analyzer.h"
+	"Matcher.h"
+	<iostream>
+	<bits/stdc++.h>
+	<stdio.h>
+	<map>
+	<vector>
+	<regex>
+	<map>
+
+1492885354 source:/media/mayar2048/4A845DAE845D9D6F/Users/Eng-Mayar/OneDrive/Documents/Faculty/8th Term/Compiler/Project/Parser/LexicalAnalyzer/Parser.cpp
+	"Parser.h"
+	<string>
+	<map>
+	<algorithm>
+	<sstream>
+	<iostream>
+	<iterator>
+
+1492885609 source:/media/mayar2048/4A845DAE845D9D6F/Users/Eng-Mayar/OneDrive/Documents/Faculty/8th Term/Compiler/Project/Parser/LexicalAnalyzer/ParserMatcher.cpp
+	"Parser.h"
+	<string>
+	<map>
+	<algorithm>
+	<sstream>
+	<iostream>
+	<iterator>
+	<vector>
+
+1492885405 source:/media/mayar2048/4A845DAE845D9D6F/Users/Eng-Mayar/OneDrive/Documents/Faculty/8th Term/Compiler/Project/Parser/LexicalAnalyzer/src/DFA.cpp
+	"Analyzer.h"
+	<sstream>
+	<regex>
+	<algorithm>
+	<utility>
+	<set>
+
+1492874998 source:/media/mayar2048/4A845DAE845D9D6F/Users/Eng-Mayar/OneDrive/Documents/Faculty/8th Term/Compiler/Project/Parser/LexicalAnalyzer/src/Matcher.cpp
+	"Analyzer.h"
+	"Matcher.h"
+	<iostream>
+	<fstream>
+	<map>
+
+1492885429 source:/media/mayar2048/4A845DAE845D9D6F/Users/Eng-Mayar/OneDrive/Documents/Faculty/8th Term/Compiler/Project/Parser/LexicalAnalyzer/src/NFA.cpp
+	"Analyzer.h"
+	<sstream>
+	<regex>
+	<algorithm>
+	<utility>
+	<set>
+
+1492886308 source:/media/mayar2048/4A845DAE845D9D6F/Users/Eng-Mayar/OneDrive/Documents/Faculty/8th Term/Compiler/Project/Parser/LexicalAnalyzer/src/main.cpp
+	<iostream>
+	<regex>
+	"Analyzer.h"
+	"Matcher.h"
+	"Parser.h"
+
+1492887272 source:/media/safaa/New Volume/safaa/Safaa/Academic/Third-Year-Second-Term/Compiler/Projects/Compiler-master/LexicalAnalyzer/src/Parser.cpp
+	"Parser.h"
+	<string>
+	<map>
+	<algorithm>
+	<sstream>
+	<iostream>
+	<iterator>
+
+1492981411 /media/safaa/New Volume/safaa/Safaa/Academic/Third-Year-Second-Term/Compiler/Projects/Compiler-master/LexicalAnalyzer/include/Parser.h
+	"Analyzer.h"
+	"Matcher.h"
+	<iostream>
+	<bits/stdc++.h>
+	<stdio.h>
+	<map>
+	<vector>
+	<regex>
+	<map>
+
+1492887272 /media/safaa/New Volume/safaa/Safaa/Academic/Third-Year-Second-Term/Compiler/Projects/Compiler-master/LexicalAnalyzer/include/Analyzer.h
+	<iostream>
+	<bits/stdc++.h>
+	<stdio.h>
+	<map>
+	<vector>
+	<regex>
+	<map>
+
+1492887272 /media/safaa/New Volume/safaa/Safaa/Academic/Third-Year-Second-Term/Compiler/Projects/Compiler-master/LexicalAnalyzer/include/Matcher.h
+	"Analyzer.h"
+	<string>
+	<map>
+
+1492981440 source:/media/safaa/New Volume/safaa/Safaa/Academic/Third-Year-Second-Term/Compiler/Projects/Compiler-master/LexicalAnalyzer/src/ParserMatcher.cpp
+	"Parser.h"
+	<string>
+	<map>
+	<algorithm>
+	<sstream>
+	<iostream>
+	<iterator>
+	<vector>
+	"Analyzer.h"
+
+1492887272 source:/media/safaa/New Volume/safaa/Safaa/Academic/Third-Year-Second-Term/Compiler/Projects/Compiler-master/LexicalAnalyzer/DFA.cpp
+	"Analyzer.h"
+	<sstream>
+	<regex>
+	<algorithm>
+	<utility>
+	<set>
+
+1492887272 /media/safaa/New Volume/safaa/Safaa/Academic/Third-Year-Second-Term/Compiler/Projects/Compiler-master/LexicalAnalyzer/Analyzer.h
+	<iostream>
+	<bits/stdc++.h>
+	<stdio.h>
+	<map>
+	<vector>
+	<regex>
+	<map>
+
+1492982145 source:/media/safaa/New Volume/safaa/Safaa/Academic/Third-Year-Second-Term/Compiler/Projects/Compiler-master/LexicalAnalyzer/main.cpp
+	<iostream>
+	<regex>
+	"Analyzer.h"
+	"Matcher.h"
+	"Parser.h"
+
+1492981948 source:/media/safaa/New Volume/safaa/Safaa/Academic/Third-Year-Second-Term/Compiler/Projects/Compiler-master/LexicalAnalyzer/Matcher.cpp
+	"Analyzer.h"
+	"Matcher.h"
+	<iostream>
+	<fstream>
+	<map>
+	"Parser.h"
+
+1492965618 source:/media/safaa/New Volume/safaa/Safaa/Academic/Third-Year-Second-Term/Compiler/Projects/Compiler-master/LexicalAnalyzer/NFA.cpp
+	"Analyzer.h"
+	<sstream>
+	<regex>
+	<algorithm>
+	<utility>
+	<set>
+
+1492887272 source:/home/sherouk/Desktop/lec14/Compiler-master/LexicalAnalyzer/DFA.cpp
+	"Analyzer.h"
+	<sstream>
+	<regex>
+	<algorithm>
+	<utility>
+	<set>
+
+1492887272 /home/sherouk/Desktop/lec14/Compiler-master/LexicalAnalyzer/Analyzer.h
+	<iostream>
+	<bits/stdc++.h>
+	<stdio.h>
+	<map>
+	<vector>
+	<regex>
+	<map>
+
+1493145903 source:/home/sherouk/Desktop/lec14/Compiler-master/LexicalAnalyzer/main.cpp
+	<iostream>
+	<regex>
+	"Analyzer.h"
+	"Matcher.h"
+	"Parser.h"
+
+1492887272 /home/sherouk/Desktop/lec14/Compiler-master/LexicalAnalyzer/include/Matcher.h
+	"Analyzer.h"
+	<string>
+	<map>
+
+1492887272 /home/sherouk/Desktop/lec14/Compiler-master/LexicalAnalyzer/include/Analyzer.h
+	<iostream>
+	<bits/stdc++.h>
+	<stdio.h>
+	<map>
+	<vector>
+	<regex>
+	<map>
+
+1493137902 /home/sherouk/Desktop/lec14/Compiler-master/LexicalAnalyzer/include/Parser.h
+	"Analyzer.h"
+	"Matcher.h"
+	<iostream>
+	<bits/stdc++.h>
+	<stdio.h>
+	<map>
+	<vector>
+	<regex>
+	<map>
+
+1492982358 source:/home/sherouk/Desktop/lec14/Compiler-master/LexicalAnalyzer/Matcher.cpp
+	"Analyzer.h"
+	"Matcher.h"
+	<iostream>
+	<fstream>
+	<map>
+	"Parser.h"
+
+1492965618 source:/home/sherouk/Desktop/lec14/Compiler-master/LexicalAnalyzer/NFA.cpp
+	"Analyzer.h"
+	<sstream>
+	<regex>
+	<algorithm>
+	<utility>
+	<set>
+
+1493137961 source:/home/sherouk/Desktop/lec14/Compiler-master/LexicalAnalyzer/src/Parser.cpp
+	"Parser.h"
+	<string>
+	<map>
+	<algorithm>
+	<sstream>
+	<iostream>
+	<iterator>
+
+1493035635 source:/home/sherouk/Desktop/lec14/Compiler-master/LexicalAnalyzer/src/ParserMatcher.cpp
+	"Parser.h"
+	<string>
+	<map>
+	<algorithm>
+	<sstream>
+	<iostream>
+	<iterator>
+	<vector>
+	"Analyzer.h"
+
+1492887272 source:/home/sherouk/Desktop/Compiler-master/LexicalAnalyzer/DFA.cpp
+	"Analyzer.h"
+	<sstream>
+	<regex>
+	<algorithm>
+	<utility>
+	<set>
+
+1492887272 /home/sherouk/Desktop/Compiler-master/LexicalAnalyzer/Analyzer.h
+	<iostream>
+	<bits/stdc++.h>
+	<stdio.h>
+	<map>
+	<vector>
+	<regex>
+	<map>
+
+1493230059 source:/home/sherouk/Desktop/Compiler-master/LexicalAnalyzer/main.cpp
+	<iostream>
+	<regex>
+	"Analyzer.h"
+	"Matcher.h"
+	"Parser.h"
+
+1492887272 /home/sherouk/Desktop/Compiler-master/LexicalAnalyzer/include/Matcher.h
+	"Analyzer.h"
+	<string>
+	<map>
+
+1492887272 /home/sherouk/Desktop/Compiler-master/LexicalAnalyzer/include/Analyzer.h
+	<iostream>
+	<bits/stdc++.h>
+	<stdio.h>
+	<map>
+	<vector>
+	<regex>
+	<map>
+
+1493137902 /home/sherouk/Desktop/Compiler-master/LexicalAnalyzer/include/Parser.h
+	"Analyzer.h"
+	"Matcher.h"
+	<iostream>
+	<bits/stdc++.h>
+	<stdio.h>
+	<map>
+	<vector>
+	<regex>
+	<map>
+
+1492982358 source:/home/sherouk/Desktop/Compiler-master/LexicalAnalyzer/Matcher.cpp
+	"Analyzer.h"
+	"Matcher.h"
+	<iostream>
+	<fstream>
+	<map>
+	"Parser.h"
+
+1492965618 source:/home/sherouk/Desktop/Compiler-master/LexicalAnalyzer/NFA.cpp
+	"Analyzer.h"
+	<sstream>
+	<regex>
+	<algorithm>
+	<utility>
+	<set>
+
+1493222108 source:/home/sherouk/Desktop/Compiler-master/LexicalAnalyzer/src/Parser.cpp
+	"Parser.h"
+	<string>
+	<map>
+	<algorithm>
+	<sstream>
+	<iostream>
+	<iterator>
+
+1493035635 source:/home/sherouk/Desktop/Compiler-master/LexicalAnalyzer/src/ParserMatcher.cpp
+	"Parser.h"
+	<string>
+	<map>
+	<algorithm>
+	<sstream>
+	<iostream>
+	<iterator>
+	<vector>
+	"Analyzer.h"
+

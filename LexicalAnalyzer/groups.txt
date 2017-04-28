@@ -1,0 +1,526 @@
+START 
+
+
+
+
+
+START 
+
+
+
+
+
+START 
+
+
+
+
+
+START 
+
+
+
+
+
+START 
+*****  9
+state num 9 is removed
+state num 9 is removed
+state num 9 is removed
+state num 9 is removed
+state num 9 is removed
+state num 9 is removed
+state num 9 is removed
+state num 9 is removed
+state num 9 is removed
+state num 9 is removed
+state num 9 is removed
+state num 9 is removed
+state num 9 is removed
+state num 9 is removed
+state num 9 is removed
+state num 9 is removed
+state num 9 is removed
+state num 9 is removed
+state num 9 is removed
+state num 9 is removed
+state num 9 is removed
+state num 9 is removed
+state num 9 is removed
+state num 9 is removed
+state num 9 is removed
+state num 9 is removed
+state num 9 is removed
+state num 9 is removed
+state num 9 is removed
+state num 9 is removed
+
+
+
+
+
+START 
+*****  7
+state num 7 is removed
+state num 7 is removed
+state num 7 is removed
+state num 7 is removed
+state num 7 is removed
+state num 7 is removed
+state num 7 is removed
+state num 7 is removed
+state num 7 is removed
+state num 7 is removed
+state num 7 is removed
+state num 7 is removed
+state num 7 is removed
+state num 7 is removed
+state num 7 is removed
+state num 7 is removed
+state num 7 is removed
+state num 7 is removed
+state num 7 is removed
+state num 7 is removed
+state num 7 is removed
+state num 7 is removed
+state num 7 is removed
+state num 7 is removed
+state num 7 is removed
+state num 7 is removed
+state num 7 is removed
+state num 7 is removed
+state num 7 is removed
+state num 7 is removed
+
+
+
+
+
+START 
+
+
+
+
+
+START 
+
+
+
+
+
+START 
+
+
+
+
+
+START 
+
+
+
+
+
+START 
+*****  14
+state num 14 is removed
+state num 14 is removed
+state num 14 is removed
+state num 14 is removed
+state num 14 is removed
+state num 14 is removed
+state num 14 is removed
+state num 14 is removed
+state num 14 is removed
+state num 14 is removed
+state num 14 is removed
+state num 14 is removed
+state num 14 is removed
+state num 14 is removed
+state num 14 is removed
+state num 14 is removed
+state num 14 is removed
+state num 14 is removed
+state num 14 is removed
+state num 14 is removed
+state num 14 is removed
+state num 14 is removed
+state num 14 is removed
+state num 14 is removed
+state num 14 is removed
+state num 14 is removed
+state num 14 is removed
+state num 14 is removed
+state num 14 is removed
+state num 14 is removed
+
+
+
+
+
+START 
+
+
+
+
+
+START 
+*****  28
+state num 28 is removed
+state num 28 is removed
+state num 28 is removed
+state num 28 is removed
+state num 28 is removed
+state num 28 is removed
+state num 28 is removed
+state num 28 is removed
+state num 28 is removed
+state num 28 is removed
+state num 28 is removed
+state num 28 is removed
+state num 28 is removed
+state num 28 is removed
+state num 28 is removed
+state num 28 is removed
+state num 28 is removed
+state num 28 is removed
+state num 28 is removed
+state num 28 is removed
+state num 28 is removed
+state num 28 is removed
+state num 28 is removed
+state num 28 is removed
+state num 28 is removed
+state num 28 is removed
+state num 28 is removed
+state num 28 is removed
+state num 28 is removed
+state num 28 is removed
+*****  29
+state num 29 is removed
+state num 29 is removed
+state num 29 is removed
+state num 29 is removed
+state num 29 is removed
+state num 29 is removed
+state num 29 is removed
+state num 29 is removed
+state num 29 is removed
+state num 29 is removed
+state num 29 is removed
+state num 29 is removed
+state num 29 is removed
+state num 29 is removed
+state num 29 is removed
+state num 29 is removed
+state num 29 is removed
+state num 29 is removed
+state num 29 is removed
+state num 29 is removed
+state num 29 is removed
+state num 29 is removed
+state num 29 is removed
+state num 29 is removed
+state num 29 is removed
+state num 29 is removed
+state num 29 is removed
+state num 29 is removed
+state num 29 is removed
+state num 29 is removed
+state num 29 is removed
+
+
+
+
+
+START 
+
+
+
+
+
+START 
+
+
+
+
+
+START 
+
+
+
+
+
+START 
+
+
+
+
+
+START 
+
+
+
+
+
+START 
+
+
+
+
+
+START 
+
+
+
+
+
+START 
+*****  25
+state num 25 is removed
+state num 25 is removed
+state num 25 is removed
+state num 25 is removed
+state num 25 is removed
+state num 25 is removed
+state num 25 is removed
+state num 25 is removed
+state num 25 is removed
+state num 25 is removed
+state num 25 is removed
+state num 25 is removed
+state num 25 is removed
+state num 25 is removed
+state num 25 is removed
+state num 25 is removed
+state num 25 is removed
+state num 25 is removed
+state num 25 is removed
+state num 25 is removed
+state num 25 is removed
+state num 25 is removed
+state num 25 is removed
+state num 25 is removed
+state num 25 is removed
+state num 25 is removed
+state num 25 is removed
+state num 25 is removed
+state num 25 is removed
+state num 25 is removed
+*****  26
+state num 26 is removed
+state num 26 is removed
+state num 26 is removed
+state num 26 is removed
+state num 26 is removed
+state num 26 is removed
+state num 26 is removed
+state num 26 is removed
+state num 26 is removed
+state num 26 is removed
+state num 26 is removed
+state num 26 is removed
+state num 26 is removed
+state num 26 is removed
+state num 26 is removed
+state num 26 is removed
+state num 26 is removed
+state num 26 is removed
+state num 26 is removed
+state num 26 is removed
+state num 26 is removed
+state num 26 is removed
+state num 26 is removed
+state num 26 is removed
+state num 26 is removed
+state num 26 is removed
+state num 26 is removed
+state num 26 is removed
+state num 26 is removed
+state num 26 is removed
+*****  27
+state num 27 is removed
+state num 27 is removed
+state num 27 is removed
+state num 27 is removed
+state num 27 is removed
+state num 27 is removed
+state num 27 is removed
+state num 27 is removed
+state num 27 is removed
+state num 27 is removed
+state num 27 is removed
+state num 27 is removed
+state num 27 is removed
+state num 27 is removed
+state num 27 is removed
+state num 27 is removed
+state num 27 is removed
+state num 27 is removed
+state num 27 is removed
+state num 27 is removed
+state num 27 is removed
+state num 27 is removed
+state num 27 is removed
+state num 27 is removed
+state num 27 is removed
+state num 27 is removed
+state num 27 is removed
+state num 27 is removed
+state num 27 is removed
+state num 27 is removed
+state num 27 is removed
+
+
+
+
+
+START 
+
+
+
+
+
+START 
+
+
+
+
+
+START 
+
+
+
+
+
+START 
+
+
+
+
+
+START 
+
+
+
+
+
+START 
+
+
+
+
+
+START 
+
+
+
+
+
+START 
+
+
+
+
+
+START 
+
+
+
+
+
+START 
+
+
+
+
+
+START 
+
+
+
+
+
+START 
+
+
+
+
+
+START 
+
+
+
+
+
+START 
+
+
+
+
+
+START 
+
+
+
+
+
+START 
+
+
+
+
+
+START 
+
+
+
+
+
+START 
+
+
+
+
+
+START 
+
+
+
+
+
+START 
+
+
+
+
+
+START 
+
+
+
+
+
+START 
+
+
+
+
+
+START 
+
+
+
+
+
+START 
+
+
+
+
+
+START 
+
+
+
+
+

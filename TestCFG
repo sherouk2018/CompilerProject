@@ -1,0 +1,38 @@
+#METHOD_BODY ::= STATEMENT_LIST
+#STATEMENT_LIST ::= STATEMENT STATEMENT_LIST2
+#STATEMENT_LIST2 ::= STATEMENT STATEMENT_LIST2 | \L
+#STATEMENT ::= DECLARATION
+| IF
+| WHILE
+| ASSIGNMENT
+#DECLARATION ::= PRIMITIVE_TYPE 'id' ';'
+#PRIMITIVE_TYPE ::= 'int' | 'float'
+#IF ::= 'if' '(' EXPRESSION ')' '{' STATEMENT '}' 'else' '{' STATEMENT '}'
+#WHILE ::= 'while' '(' EXPRESSION ')' '{' STATEMENT '}'
+#ASSIGNMENT ::= 'id' '=' EXPRESSION ';'
+#EXPRESSION ::= SIMPLE_EXPRESSION EXPRESSION2
+#EXPRESSION2 ::= 'relop' SIMPLE_EXPRESSION | \L
+#SIMPLE_EXPRESSION ::= TERM SIMPLE_EXPRESSION2| SIGN TERM SIMPLE_EXPRESSION2
+#SIMPLE_EXPRESSION2 ::= 'addop' TERM SIMPLE_EXPRESSION2 | \L
+#TERM ::= FACTOR TERM2
+#TERM2 ::= 'mulop' FACTOR TERM2 | \L
+#FACTOR ::= 'id' | 'num' | '(' EXPRESSION ')'
+#SIGN ::= '+' | '-'
+
+
+#E ::= T E2
+#E2 ::= '+' T E2 | \L
+#T ::= F T2
+#T2 ::= '*' F T2 | \L
+#F ::= '(' E ')' | 'id'
+
+#S ::= A B C
+#A ::= 'a' | \L
+#B ::= 'b' | \L
+#C ::= 'c' | \L
+
+#A ::= B | C 'x' | \L
+#B ::= C | 'y' A
+#C ::= 'y' A C2 | 'w' C2 | 'z' C2
+#C2 ::= \L
+
